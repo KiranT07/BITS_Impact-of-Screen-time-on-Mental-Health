@@ -1,7 +1,7 @@
 # BITS_Impact-of-Screen-time-on-Mental-Health
 Mental health issues such as stress, anxiety, and depression are increasing globally due to lifestyle changes, work pressure, and digital habits.  Many individuals do not seek timely help due to stigma and lack of awareness.  Early prediction of mental health conditions can enable preventive interventions and support.
 
-1. Python Code for data cleaning and model building: Mental_Health_Capstone_Project_G04.ipynb
+1. Python Code for data cleaning and model building: Mental_Health_Capstone_Project_G04.ipynb  or Mental_Health_Capstone_Project_G04.py. (you can use any one as per your convinence) 
 
 2. Raw data: digital_diet_mental_health.csv
 
@@ -45,7 +45,7 @@ streamlit run PCAM ZC321-C12-DEPLOYMENT_CODE-Impact of Screen Time on Mental Hea
 
 ********************************************************************************************************************************************************************************************************************************************
 
-
+Note: Removed few of outputs dues to size restrictions to upload in Github. 
 
 
 Thank you....!!!
