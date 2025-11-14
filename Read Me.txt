@@ -1,0 +1,42 @@
+1. Python Code for data cleaning and model building: Mental_Health_Capstone_Project_G04.ipynb
+2. Raw data: digital_diet_mental_health.csv
+3. Deployment code: Deployment.py
+4. Generated 6 .joblib files from main code which needs to copy in the deployment folder. 
+5. Background Image: back1.png
+6. Consolidated models results output: ALL_RESULTS_DF_FINAL.csv (Generated from code)
+7. Added deployment page screenshots 
+
+
+# Deployment Instructions:
+********************************************************************************************************************************************************************************************************************************************
+To deploy and run the Streamlit application:
+
+1) Copy the following .joblib files into the Deployment folder (the same folder that contains the deployment .py file) which were generated from the model building complete code:
+
+champion_voting_ensemble.joblib
+
+deployment_feature_names.joblib
+
+deployment_scaler.joblib
+
+lr_normal_model.joblib
+
+svr_normal_model.joblib
+
+svr_tuned_model.joblib
+
+2) Open the command prompt or terminal in the deployment folder.
+
+3) Run the following command:
+
+streamlit run PCAM ZC321-C12-DEPLOYMENT_CODE-Impact of Screen Time on Mental Health-G04.py
+
+
+4)The application will launch automatically in your default web browser.
+
+********************************************************************************************************************************************************************************************************************************************
+
+
+
+
+Thank you....!!!
